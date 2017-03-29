@@ -1,3 +1,19 @@
 # CK Editor implementation with Angularjs
 
-** Required JS File **
+
+
+## Installation
+
+Include  
+	
+	### Core JS  Files
+
+	`angular.min.js`, 
+
+	`angular-route.js`
+
+	### Library for CK Editor
+
+	`ckeditor/ckeditor.js`,
+
+	`ckeditor/angular-ckeditor.js`
