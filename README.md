@@ -4,16 +4,15 @@
 
 ## Installation
 
-Include  
 	
-	### Core JS  Files
+#### Core JS  Files
 
-	`angular.min.js`, 
+`angular.min.js`, 
 
-	`angular-route.js`
+`angular-route.js`
 
-	### Library for CK Editor
+#### Library for CK Editor
 
-	`ckeditor/ckeditor.js`,
+`ckeditor/ckeditor.js`,
 
-	`ckeditor/angular-ckeditor.js`
+`ckeditor/angular-ckeditor.js`
