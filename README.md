@@ -1,1 +1,1 @@
-# angular-ckeditor
+# CK Editor implementation with Angularjs
