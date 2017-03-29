@@ -10,12 +10,11 @@ Include required js file with the html
 
 #### Core JS  Files
 
-<script src="angular.min.js"></script>
+`<script src="angular.min.js"></script>`
 
 #### Library for CK Editor
 
-<script src="ckeditor/ckeditor.js"></script>
+`<script src="ckeditor/ckeditor.js"></script>`,
 
-
-<script src="ckeditor/angular-ckeditor.js"></script>
+`<script src="ckeditor/angular-ckeditor.js"></script>`
 
