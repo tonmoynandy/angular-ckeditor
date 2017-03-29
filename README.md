@@ -16,5 +16,6 @@ Include required js file with the html
 
 <script src="ckeditor/ckeditor.js"></script>
 
+
 <script src="ckeditor/angular-ckeditor.js"></script>
 
