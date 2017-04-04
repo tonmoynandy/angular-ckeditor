@@ -54,7 +54,3 @@ Include below listed required js file with the html
   There are verious type of options within ckeditor library
   
   
-  
-
-
->>>>>>> f27d27b8be74a93d54719083e1e645d6864b1ab3
