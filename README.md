@@ -45,12 +45,17 @@ Include below listed required js file with the html
   
 2) Define the contrller and attach with module 
 
-  Like: `app.controller('CkeditorCtroller', ['$scope', function ($scope) {})`
+  Like: `app.controller('CkeditorCtroller', ['$scope', function ($scope) {}])`
   
 3) Within controller , add the options of ckeditor
 
   like :  `$scope.options = {language: 'en',allowedContent: true,entities: false  };`
   
   There are verious type of options within ckeditor library
+
+##Example ##
+
+You can find the example in "Demo" folder included in this project
+
   
   
